@@ -1,7 +1,7 @@
 # Selenium-Hub-Grid-on-Docker-Compose
 
 
-pull a docker-compose file  "docker-compose.yml" .
+pull a docker-compose file  "docker-compose.yaml" .
 
 Then run a simple command as given:
 
